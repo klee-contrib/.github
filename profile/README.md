@@ -20,8 +20,9 @@
 
 ### Les repos
 
-| Nom          | Tags                                     | Description                                                                  |
-| ------------ | ---------------------------------------- | ---------------------------------------------------------------------------- |
-| TopModel     | Java, C#, Génération de code, Typescript | Outil de modélisation et générateurs pour divers langages                    |
-| ngx-farmulor | Angular                                  | Formulaires typés                                                            |
-| vue-dsfr     | Vue3                                     | Fork officiel de la librairie Vue3 qui implémente le design system de l'état |
+| Nom                         | Tags                                     | Description                                                                  |
+| --------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| TopModel                    | Java, C#, Génération de code, Typescript | Outil de modélisation et générateurs pour divers langages                    |
+| vue-dsfr                    | Vue3                                     | Fork officiel de la librairie Vue3 qui implémente le design system de l'état |
+| lemonldap-ng-quick-starter  | LemonLdap::NG                            | Sarter kit pour bouchonner un SSO LemonLdapNG avec un annuaire intégré       |
+| ngx-farmulor                | Angular                                  | Formulaires typés                                                            |
