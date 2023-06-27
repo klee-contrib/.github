@@ -20,9 +20,10 @@
 
 ### Les repos
 
-| Nom                         | Tags                                     | Description                                                                  |
-| --------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
-| TopModel                    | Java, C#, Génération de code, Typescript | Outil de modélisation et générateurs pour divers langages                    |
-| vue-dsfr                    | Vue3                                     | Fork officiel de la librairie Vue3 qui implémente le design system de l'état |
-| lemonldap-ng-quick-starter  | LemonLdap::NG                            | Sarter kit pour bouchonner un SSO LemonLdapNG avec un annuaire intégré       |
-| ngx-farmulor                | Angular                                  | Formulaires typés                                                            |
+| Nom                        | Tags                                          | Description                                                                  |
+| -------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------- |
+| TopModel                   | Java, C#, PHP, Génération de code, Typescript | Outil de modélisation et générateurs pour divers langages                    |
+| vue-dsfr                   | Vue3                                          | Fork officiel de la librairie Vue3 qui implémente le design system de l'état |
+| lemonldap-ng-quick-starter | LemonLdap::NG                                 | Sarter kit pour bouchonner un SSO LemonLdapNG avec un annuaire intégré       |
+| ngx-focus-entities         | Angular                                       | Création de formulaire angular typés à partir du code généré par TopModel    |
+| ngx-farmulor               | Angular                                       | Formulaires typés : Déprécié ! Utiliser   ngx-focus-entities                 |
