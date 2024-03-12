@@ -26,4 +26,4 @@
 | vue-dsfr                   | Vue3                                          | Fork officiel de la librairie Vue3 qui implémente le design system de l'état |
 | lemonldap-ng-quick-starter | LemonLdap::NG                                 | Sarter kit pour bouchonner un SSO LemonLdapNG avec un annuaire intégré       |
 | ngx-focus-entities         | Angular                                       | Création de formulaire angular typés à partir du code généré par TopModel    |
-| ngx-farmulor               | Angular                                       | Formulaires typés : Déprécié ! Utiliser   ngx-focus-entities                 |
+| spring-batch-bulk          | Java Spring                                   | Librairie permettant d'utiliser le bulk insert avec spring-batch             |
